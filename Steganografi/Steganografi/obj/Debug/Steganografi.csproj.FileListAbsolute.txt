@@ -1,0 +1,13 @@
+C:\Users\Doğukan\Documents\Visual Studio 2015\Projects\Steganografi\Steganografi\bin\Debug\Steganografi.exe.config
+C:\Users\Doğukan\Documents\Visual Studio 2015\Projects\Steganografi\Steganografi\bin\Debug\Steganografi.exe
+C:\Users\Doğukan\Documents\Visual Studio 2015\Projects\Steganografi\Steganografi\bin\Debug\Steganografi.pdb
+C:\Users\Doğukan\Documents\Visual Studio 2015\Projects\Steganografi\Steganografi\obj\Debug\Steganografi.csprojResolveAssemblyReference.cache
+C:\Users\Doğukan\Documents\Visual Studio 2015\Projects\Steganografi\Steganografi\obj\Debug\Steganografi.Form1.resources
+C:\Users\Doğukan\Documents\Visual Studio 2015\Projects\Steganografi\Steganografi\obj\Debug\Steganografi.Properties.Resources.resources
+C:\Users\Doğukan\Documents\Visual Studio 2015\Projects\Steganografi\Steganografi\obj\Debug\Steganografi.csproj.GenerateResource.Cache
+C:\Users\Doğukan\Documents\Visual Studio 2015\Projects\Steganografi\Steganografi\obj\Debug\Steganografi.exe
+C:\Users\Doğukan\Documents\Visual Studio 2015\Projects\Steganografi\Steganografi\obj\Debug\Steganografi.pdb
+C:\Users\Doğukan\Documents\Visual Studio 2015\Projects\Steganografi\Steganografi\obj\Debug\Steganografi.Form2.resources
+C:\Users\Doğukan\Desktop\stegonagrafi program\Steganografi\Steganografi\bin\Debug\Steganografi.exe.config
+C:\Users\Doğukan\Desktop\stegonagrafi program\Steganografi\Steganografi\obj\Debug\Steganografi.exe
+C:\Users\Doğukan\Desktop\stegonagrafi program\Steganografi\Steganografi\obj\Debug\Steganografi.pdb
